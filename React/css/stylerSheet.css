@@ -1,3 +1,7 @@
+/* an asterisk is used to represent universal property values for css
+a dot is used to represent class values 
+a hash is used to represent id values  */
+
 *{
     background-color: aquamarine;
     color: brown;
@@ -44,4 +48,9 @@ body{
 .enter{
     margin-top: 10px;
     outline: 2px solid blue;
+}
+
+#password{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
 }
