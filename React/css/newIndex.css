@@ -1,0 +1,27 @@
+/* 
+1. an asterisk is used to represent universal property values for css
+2. a dot is used to represent class values 
+3. a hash is used to represent id values  
+*/
+
+body{
+    background-color: #FFE3E3;
+}
+
+.nav-bar{
+    background-color: #FF5677;
+}
+
+.name{
+    border: solid 10px #9145B6;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+#video{
+    /* border-style: solid; */
+    /* border-color: blue; */
+    margin: auto;
+    text-align: center;
+}

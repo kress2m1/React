@@ -13,6 +13,7 @@ a hash is used to represent id values  */
 .form{
     background-color: red;
     width: 300px;
+    margin: auto;
 }
 
 .table{
