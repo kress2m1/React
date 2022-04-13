@@ -20,8 +20,8 @@ body{
 }
 
 #video{
-    border-style: solid;
-    border-color: blue;
+    /* border-style: solid; */
+    /* border-color: blue; */
     margin: auto;
     text-align: center;
 }
