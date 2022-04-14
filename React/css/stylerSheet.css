@@ -1,57 +1,27 @@
-/* an asterisk is used to represent universal property values for css
-a dot is used to represent class values 
-a hash is used to represent id values  */
-
-*{
-    background-color: aquamarine;
-    color: brown;
-    padding: 0%;
-    margin: 0%;
-    box-sizing: border-box;
-}
-
-.form{
-    background-color: red;
-    width: 300px;
-    margin: auto;
-}
-
-.table{
-    background-color: pink;
-    width: 300px;
-}
-
-.linkers{
-    background-color: #5584AC;
-    width: 300px;
-}
+/* 
+1. an asterisk is used to represent universal property values for css
+2. a dot is used to represent class values 
+3. a hash is used to represent id values  
+*/
 
 body{
-    background-image: url('../Images/photo-1453728013993-6d66e9c9123a.jpeg');
-    background-repeat: no-repeat;
+    background-color: #A2D5AB;
 }
 
-.wid{
-    background-color: red;
-    padding: 12px;
-    height: 300px;
-    width: 300px;
-    margin-top: 10px;
+.nav-bar{
+    background-color: #FF5677;
 }
 
-.w{
-    background-color: rgb(0, 255, 136);
-    height: 300px;
-    width: 300px;
-    margin-top: 10px;
+.name{
+    border: solid 10px #9145B6;
+    width: 50%;
+    margin: auto;
+    text-align: center;
 }
 
-.enter{
-    margin-top: 10px;
-    outline: 2px solid blue;
-}
-
-#password{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: blue;
+#video{
+    /* border-style: solid; */
+    /* border-color: blue; */
+    margin: auto;
+    text-align: center;
 }
