@@ -4,8 +4,17 @@
 3. a hash is used to represent id values  
 */
 
-body{
-    background-color: #A2D5AB;
+*{
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+* body{
+    background-image: url('../Images/photo-1453728013993-6d66e9c9123a.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .nav-bar{
@@ -24,4 +33,19 @@ body{
     /* border-color: blue; */
     margin: auto;
     text-align: center;
+}
+
+.wid{
+    background-color: #FF5677;
+    height: 340px;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.widd{
+    background-color: greenyellow;
+    height: 340px;
+    width: 300px;
+    margin-top: 10px;
+    padding: 20px;
 }
